@@ -9,6 +9,7 @@ module main
 sobreMim :: struct {
   pronome :: string[];
   linguagens :: string[];
+  universidades :: string[];
   hobbies :: string[];
   curiosidadePessoal :: string;
 }
@@ -17,12 +18,14 @@ main :: func(): void {
   pedro :: sobreMim = {
     pronome: ["Ele", "Dele"],
     linguagens: ["C", "HTML", "Java", "Python"],
+    universidades: ["Bacharel Direito PUC/SP" "Engenharia de Alimentos USP - incompleta]
     hobbies: ["Jogar", "Ler", "Caminhar"],
     curiosidadePessoal: "Sou pai de uma linda criança chamada Caique"
   };
 
   println "Pronome: ${pedro.pronome}";
   println "Linguagens que eu sei: ${pedro.linguagens}";
+  println "Carreira Acadêmica: ${pedro.universidade};
   println "Meus Hobbies: ${pedro.hobbies}";
   println "Curiosidade Pessoal: ${pedro.curiosidadePessoal}";
 }
