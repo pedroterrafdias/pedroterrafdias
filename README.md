@@ -18,8 +18,8 @@ main :: func(): void {
   pedro :: sobreMim = {
     pronome: ["Ele", "Dele"],
     linguagens: ["C", "HTML", "Java", "Python"],
-    universidades: ["Bacharel Direito PUC/SP" "Engenharia de Alimentos USP - incompleta]
-    hobbies: ["Jogar", "Ler", "Caminhar"],
+    universidades: ["Bacharel em Direito pela PUC/SP" "Engenharia de Alimentos USP - incompleta]
+    hobbies: ["Pintar", "Tocar violão", "Jogar", "Ler", "Caminhar"],
     curiosidadePessoal: "Sou pai de uma linda criança chamada Caique"
   };
 
