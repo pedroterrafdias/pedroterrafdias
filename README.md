@@ -14,17 +14,17 @@ sobreMim :: struct {
 }
 
 main :: func(): void {
-  ethan :: sobreMim = {
+  pedro :: sobreMim = {
     pronome: ["Ele", "Dele"],
     linguagens: ["C", "HTML", "Java", "Python"],
     hobbies: ["Jogar", "Ler", "Caminhar"],
     curiosidadePessoal: "Sou pai de uma linda criança chamada Caique"
   };
 
-  println "Pronome: ${ethan.pronome}";
-  println "Linguagens que eu sei: ${ethan.linguagens}";
-  println "Meus Hobbies: ${ethan.hobbies}";
-  println "Curiosidade Pessoal: ${ethan.curiosidadePessoal}";
+  println "Pronome: ${pedro.pronome}";
+  println "Linguagens que eu sei: ${pedro.linguagens}";
+  println "Meus Hobbies: ${pedro.hobbies}";
+  println "Curiosidade Pessoal: ${pedro.curiosidadePessoal}";
 }
 ```
 
@@ -59,6 +59,14 @@ main :: func(): void {
         <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
+     <td width="25%" align="center">
+        <span>PyCharm</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/pycharm.svg">
+     </td>
+     <td width="25%" align="center">
+        <span>aws</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
+     </td>
     </tr>
   </tbody>
 </table>
