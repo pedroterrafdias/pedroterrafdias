@@ -78,3 +78,18 @@ main :: func(): void {
 
 Meus estudos envolvem SQL, Banco de Dados, LGPD, bem como aperfeiçoamento das linguagens Python, C, Java e HTML.
 
+
+# Cursos 
+```text
+
+📊 PUC/SP: 
+Curso de programação de Smart Contracts para advogados       █████████████████████████  100.0% 
+
+📊 Udemy: 
+Algoritmos e Lógica de Programação 2020 - O Curso COMPLETO   █████████████████████████  100.0%
+Legal Compliance of WSH Management System                    █████████████████████████  100.0%
+ISO 31000- Enterprise Risk Management for the Professional   █████████████████████████  100.0%
+Desenvolvimento Web Completo 2021                            ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
+Data Science e Machine Learning com Estatística e Python     █░░░░░░░░░░░░░░░░░░░░░░░░   05.0%
+
+
