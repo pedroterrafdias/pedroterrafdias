@@ -56,7 +56,11 @@ main :: func(): void {
       <td width="25%" align="center">
         <span>CSS</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>   
+      </td>  
+      <td width="25%" align="center">
+        <span>MySQL</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
+     </td>
       </tr>     
      <tr valign="top">
       <td width="25%" align="center">
@@ -105,7 +109,7 @@ Curso de programação de Smart Contracts para advogados       █████�
 Algoritmos e Lógica de Programação 2020 - O Curso COMPLETO   █████████████████████████  100.0%
 Legal Compliance of WSH Management System                    █████████████████████████  100.0%
 ISO 31000- Enterprise Risk Management for the Professional   █████████████████████████  100.0%
-Desenvolvimento Web Completo 2021                            ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
-Data Science e Machine Learning com Estatística e Python     █░░░░░░░░░░░░░░░░░░░░░░░░   05.0%
+Desenvolvimento Web Completo 2021                            ███████████████░░░░░░░░░░   65.0%
+Data Science e Machine Learning com Estatística e Python     ███░░░░░░░░░░░░░░░░░░░░░░   15.0%
 
 
