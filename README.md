@@ -1,6 +1,6 @@
 # Prazer, Pedro Terra Ferreira Dias!
 
-#### Sou advogado formado pela PUC/SP.
+#### Sou Advogado formado pela PUC/SP.
 #### Estou em busca de uma oportunidade como Cientista/Engenheiro de dados para poder entrar na área de tecnologia!
 
 ```pedro
